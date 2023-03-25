@@ -42,7 +42,7 @@ public class BankAccount {
             System.out.println("Invalid amount. Please enter a positive value.");
         }
     }
-//function to withdraw
+//function to withdraw money
     public void withdraw(double amount, int enteredPin) {
         System.out.println("Enter your pin.");
 
