@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ArrayModifier {
     private ArrayList<Object> originalArray;
     private ArrayList<Object> updatedArray;
-//constructor
+//constructor of array modifier
     public ArrayModifier(Object[] originalArray, Object[] updatedArray) {
         this.originalArray = new ArrayList<>(Arrays.asList(originalArray));
         this.updatedArray = new ArrayList<>(Arrays.asList(updatedArray));
