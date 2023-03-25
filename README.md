@@ -22,9 +22,9 @@ It allows users to create a new bank account,
 * Verifies the user's PIN before allowing any transactions to be made.
 *  Displays the account holder name, account number, and balance at any time.
 
-# Credits
-This challenge was given by:  <h1>Objectivity</h1>
-This program was written by:  <h1>Mugisha Kevine</h1>
+# Credits :
+This challenge was given by:  <h3>Objectivity</h3>
+This program was written by:  <h3>Mugisha Kevine</h3>
 
 
 
