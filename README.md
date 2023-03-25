@@ -27,4 +27,4 @@ Credits
 This program was written by OpenAI's ChatGPT, a large language model trained by OpenAI.
 
 License
-This program is licensed under the MIT Licen
+This program is licensed under the MIT Licenk
